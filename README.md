@@ -4,7 +4,7 @@ Made by: Fakedepression ( @error.javascript )
 
 ## Installation
 ```
-  git clone https://github.com/Lorenzik/TikTok-Mass-Report-Bot
+  git clone https://github.com/minkyyyZ/AVIRO-TIKTOK-BOT
   cd TMRB
   npm i
   node .
